@@ -1,0 +1,84 @@
+.container1{
+    font-family: "Montserrat", sans-serif;
+    margin: auto;
+    width: 100%;
+}
+ul{
+    list-style-type: none;
+    font-size: 2em;
+    background-color:red;
+    padding: 30px;
+
+
+}
+li{
+    display: inline;
+    padding: 12px 24px;
+    font-size: 10px;
+    float: left;
+    color: rgb(247, 242, 242);
+
+}
+.harfo {
+    margin: 10px;
+    width: 100%;
+    background-color:red;
+    padding: 50px;
+    float: inline-end;
+    font-size: 32px;
+    color: #fff;
+}
+h1{
+    text-align: center;
+    font-size: ;
+}
+.text{
+    margin: auto;
+    width: 70%;
+    display: flex;
+    text-align: left;
+}
+.get{
+    text-align: center;
+    background-color: #000;
+    color: aliceblue;
+    margin: auto;
+    position:absolute ;
+    left: 50%;
+}
+h3{
+    text-align: center;
+}
+.iconka{
+    font-size: 150px;
+    color:red ;
+}
+.lorem{
+    margin: auto;
+    width: 100%;
+    display: flex;
+    text-align: left;
+    background-color: rgb(203, 199, 199);
+    text-align: center;
+    font-family: Verdana,sans-serif;
+}
+p{
+    margin: left;
+    padding: 15px;
+}
+.obshi2{
+    width: 70%;
+    display: flex;
+    margin: auto;
+    text-align: left;
+}
+.obshi3 h1 {
+    background-color:#000 ;
+    color: #fff;
+    height: 100px;
+    margin: 0%;
+    padding-top: 50px;
+    text-align: center;
+    opacity: 0.60;
+    font-family: "Montserrat", sans-serif;
+}

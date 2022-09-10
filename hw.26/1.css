@@ -1,0 +1,84 @@
+
+form{ 
+    margin: 0; 
+    margin-left: 150px; 
+    width: 80%; 
+    height: 600px; 
+    background-color: rgb(38, 53, 94); 
+    color: white; 
+} 
+label, input{ 
+    border-radius: 10px; 
+    font-size: 25px; 
+ 
+} 
+.university{ 
+    margin-right: 35px; 
+} 
+#university{ 
+    margin-right: 40px; 
+} 
+#institute{ 
+    margin-left: 20px; 
+} 
+#branch{ 
+    margin-left: 30px; 
+} 
+#degree{ 
+    margin-left: 105px; 
+} 
+.degree{ 
+    margin: -70px; 
+    margin-left: 235px; 
+} 
+legend{ 
+    font-size: 30px; 
+    color: white; 
+    text-align: center; 
+} 
+#average{ 
+    width: 60px; 
+    margin-right: 17px; 
+    margin-left: 25px; 
+} 
+#experience{ 
+    width: 100px; 
+    margin-right: 160px; 
+    margin-left: 30px; 
+} 
+.experience{ 
+    margin-left: -30px; 
+} 
+#website{ 
+    margin-right: 150px; 
+    margin-left: -50px; 
+    margin-left: 5px; 
+} 
+.website{ 
+    margin-right: 40px; 
+} 
+fieldset{ 
+    text-align: center; 
+} 
+#years{ 
+    margin-left: -150px; 
+    margin-right: 150px; 
+} 
+.Step{ 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+} 
+p{ 
+    padding: 10px; 
+    font-family: monospace; 
+    font-size: 20px; 
+} 
+.S1{ 
+    background-color: green; 
+    padding: 10px; 
+    border-radius: 43%; 
+} 
+*{ 
+    margin: 0; 
+}

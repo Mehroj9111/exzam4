@@ -1,0 +1,234 @@
+*{
+    margin: 0;
+}
+.obshi{
+    width: 100%;
+    height: 100vh;
+}
+.aval{
+    width: 100%;
+    height: 100vh;
+    background-image: url(./1.png);
+    background-size: cover;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    font-size: 8rem;
+}
+.aval h1{
+    text-align: center;
+    color: beige;
+    font-size: 70px;
+    padding-top: 100px;
+}
+.l{
+    font-size: 25px;
+    color: beige;
+    text-align: center;
+}
+.saf{
+    width: 100%;
+    height: 350px;
+    background-color: #1a1a1a;
+    color: azure;
+    font-size: 1rem;
+    line-height: 1.6;
+    text-align: right;
+    display: flex;
+}
+.v{
+    text-align: end;
+    padding-top: 50px;
+}
+.v1{
+    margin-right: 170px;
+}
+.v2{
+    width: 350px;
+    height: 350px;
+    margin-left: 70px;
+}
+.jsaf{
+    width: 100%;
+    height: 450px;
+    display: flex;
+    color: #111111;
+    background-color: #f2f2f2
+}
+.h{
+    text-align: left;
+    width: 550px;
+    height: 450px;
+margin-left: 100px;
+padding-top: 50px;
+}
+.aa {
+    padding-top: 50px;
+   
+}
+.m{
+    color: #454545;
+    border: 1px solid #454545;
+}
+.m:hover{
+    color: #f2f2f2;
+    background-color: #1a1a1a;
+}
+a{
+    border: 1px solid #6A859C;;
+    border-radius: 50px;
+    padding: 10px;
+     text-decoration: none;
+    padding: 15px;
+    font-size: 25px; 
+}
+.im{
+    padding-top: 55px;
+    margin-left: 70px;
+}
+.imejo{
+width: 100%;
+height: 400px;
+display: flex;
+}
+.i1{
+    background-image: url(./6d40e12697e216424d1a18f353df0bf7.jpeg);
+    width: 25%;
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+}
+.i2{
+    background-image: url(./24c23b86ace34e3ed7132544afb2ab1c.jpeg);
+    width: 25%;
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+}
+.i3{
+text-align: center;
+background-image: linear-gradient(0deg, rgba(133,162,166,0.9), rgba(133,162,166,0.9)),url(./22.jpeg);
+width: 25%;
+height: 400px;
+background-size: cover;
+background-position: center;
+
+}
+.ii3{
+    font-size: 20px;
+    line-height: 1.6;
+    text-align: left;
+    margin-left: 10px;
+    color: #ffffff;
+}
+.aaa{
+    position: relative;
+    top: 20px;
+    border: 4px solid #e4e5e7;;
+    border-radius: 50px;
+     text-decoration: none;
+    padding: 15px;
+    font-size: 25px; 
+    color: #ffffff;
+}
+.aaa:hover{
+background-color: #f0eeee;
+color: #121213;
+}
+.i4{
+    background-image: url(./1c74412098409ddbed4b79e3041e4e0b.jpeg);
+    width: 25%;
+    height: 400px;
+    background-size: cover;
+}
+.idi{
+    width: 100%;
+    height: 800px;
+    background-color: #1a1a1a;
+display: flex;
+color: #f2f2f2;
+}
+.c{
+    border: 1px solid #e9ebec;;
+    border-radius: 50px;
+    color: #f2f2f2;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 25px;
+    border-color: #454545 ;
+    color: #454545;
+}
+.c:hover{
+    background-color: #1a1a1a;
+    color: #f2f2f2;
+}
+.did{
+    padding-top: 100px;
+    display: flex;
+}
+.d1{
+    width: 34%;
+    height: 100vh;
+}
+.d1 h1{
+    position: relative;
+    top: 100px;
+    margin-left: 25px;
+}
+.d2{
+    width: 33%;
+    height: 100vh;
+}
+.d3{
+    width: 33%;
+    height: 100vh;
+}
+.d3 h1 {
+    position: relative;
+    top: 110px;
+    margin-right: 25px;
+}
+.did a{
+    position: relative;
+top: 150px;
+margin-left: 25px;
+}
+.icha{
+    background-image: url(./8545b69bb58d265598945a66bbaa5025.jpeg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    color: #ffffff;
+}
+.h11{
+    width: 35%;
+    height: 450px;
+    margin-left: 100px;
+    padding-top: 10px;
+    text-align: left;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+.cd{
+    margin-top: 100px;
+}
+.cd1{
+    margin-top: 35px;
+}
+.cd2{
+    margin-top: 25px;
+}
+.ab{
+    position: relative;
+    margin-left: 150px;
+    border: 1px solid #e9ebec;;
+    border-radius: 50px;
+    color: #f2f2f2;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 25px;
+}
+.ab:hover{
+    background-color: #ffffff;
+    color: #111111;
+}
